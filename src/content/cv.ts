@@ -158,7 +158,7 @@ export const copy: Record<Lang, CvCopy> = {
   es: {
     skip: 'Saltar al contenido',
     role: 'Independent developer',
-    location: 'Caracas, Venezuela · remoto',
+    location: 'Venezolano · 27/04/1998 · Caracas, Venezuela · remoto',
     oneLiner: 'Full-stack engineer',
     pdfLabel: 'PDF',
     printLabel: 'Imprimir / PDF',
@@ -209,7 +209,7 @@ export const copy: Record<Lang, CvCopy> = {
   en: {
     skip: 'Skip to content',
     role: 'Independent developer',
-    location: 'Caracas, Venezuela · remote OK',
+    location: 'Venezuelan · 27 Apr 1998 · Caracas, Venezuela · remote OK',
     oneLiner: 'Full-stack engineer',
     pdfLabel: 'PDF',
     printLabel: 'Print / PDF',
