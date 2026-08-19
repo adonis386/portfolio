@@ -52,7 +52,7 @@ export function SiteHeader() {
           </a>
         ))}
         <a
-          href={`${import.meta.env.BASE_URL}adonis-gonzalez-cv.pdf`}
+          href={`${import.meta.env.BASE_URL}adonis-gonzalez-cv.pdf?v=2`}
           className="no-print inline-flex cursor-pointer items-center gap-1.5 text-[var(--color-muted)] decoration-[var(--color-accent)] underline-offset-[5px] transition-colors duration-200 hover:text-[var(--color-fg)] hover:underline"
         >
           <FileDown aria-hidden="true" size={13} strokeWidth={1.75} />
