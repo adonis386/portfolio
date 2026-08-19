@@ -73,8 +73,8 @@ export const contacts: ContactLink[] = [
   },
   {
     id: 'site',
-    href: 'https://adonis386.github.io/portfolio',
-    display: 'adonis386.github.io/portfolio',
+    href: 'https://portfolio.informaticagonzalez.com',
+    display: 'portfolio.informaticagonzalez.com',
   },
 ]
 

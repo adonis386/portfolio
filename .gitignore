@@ -7,3 +7,4 @@ tsconfig.tsbuildinfo
 .cursor
 *-new.pdf
 _preview*
+.vercel
